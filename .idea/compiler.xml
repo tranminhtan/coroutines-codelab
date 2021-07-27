@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
       <module name="coroutines-codelab.compose" target="11" />
+      <module name="coroutines-codelab.rxjava" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

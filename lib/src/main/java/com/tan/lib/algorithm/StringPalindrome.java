@@ -2,7 +2,7 @@ package com.tan.lib.algorithm;
 
 import com.tan.lib.PrintUtils;
 
-class Palindrome {
+class StringPalindrome {
     public static void main(String[] args) {
         PrintUtils.print(isPalindrome("abcdcba"));
         PrintUtils.print(isPalindrome("1234321"));
